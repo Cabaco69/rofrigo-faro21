@@ -81,7 +81,7 @@ function Espada2{
             | \> </ /              tipo lutou e amou. Nós estamos esperando
              \________/            para o momento da Reunião, quando apenas um
              _]______[_            restam poucos de nós. Então vamos lutar por
-             | |                   o prêmio ULTIMATE.
+README.md             | |                   o prêmio ULTIMATE.
              |________|
               ]______[             # Lembre-se QUE SÓ PODE HAVER UM!!!
              | |
@@ -109,39 +109,16 @@ function Espada3{
       /   |   \
      /    |    \
     /     |     \_
-   /      |      \
+   /      |      \README.md
   /       |       \
  /        |        \
 |         |         |
  \        |        /
    \      |      /
      \    |    /
-       \  |  /_
+       \  |  /README.md
          \|/
           `
+          _
           
-          
-} 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+} README.md
