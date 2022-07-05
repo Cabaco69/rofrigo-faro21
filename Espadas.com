@@ -89,7 +89,7 @@ README.md             | |                   o prêmio ULTIMATE.
              _]______[_            Vida longa e próspera
              | |                   warlord@zonk.geko.com.au
              |________|            SÓ PODE HAVER UM!!!
-             _]______[_
+             _]______[_ping pong
              |        |
              |________|
                ]____[
@@ -107,7 +107,7 @@ function Espada3{
 ._____l_______l_____.
 ||_____/  |  \_____||
       /   |   \
-     /    |    \
+     /    |    \ping pong
     /     |     \_
    /      |      \README.md
   /       |       \
